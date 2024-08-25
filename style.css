@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 40px;
+    background-color: #F5F4F0;
+    border-color: #D9D9D9;
+    border-radius: 25px;
+}
+
+.busanimg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 24px;
+}
+
+
+.textomenor {
+    color: #E1624F;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.textobusan {
+    font-weight: bold;
+    color: #1B1B1B;
+    font-size: 36px;
+    font-family: Open Sans;
+    margin: 8px 0 40px;
+}
+
+.busandescricao {
+    margin: 24px 0 40px 0;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: Italic;
+    text-align: center;
+    color: #333333;
+}
+
+.hr {
+    border: none;
+    height: 4px;
+    background-color: #E1E1E6;
+    margin: 40px 0;
+    width: 100%;
+}
+
+.busanhistoria {
+    margin: 64px 0 0 0;
+    color: #E1624F;
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.curiosidades {
+    font-weight: bold;
+    color: #1B1B1B;
+    font-size: 34px;
+    font-family: Open Sans;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.pcuriosidades {
+    font-size: 16px;
+    font-weight: italic;
+    font-family: Open Sans;
+    color: #1E1E1E;
+    margin-bottom: 64px;
+}
+
+.templo {
+    max-width: 100%;
+    border-radius: 24px;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.titletemplo {
+    font-weight: bold;
+    color: #1B1B1B;
+    font-size: 28px;
+    font-family: Open Sans;
+}
+
+.paragraph {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: Italic;
+    color: #333333;
+    margin-top: 5px;
+}
+
+.ul {
+    padding-left: 20px;
+}
+
+.espaco {
+    font-family: Open Sans;
+    color: #333333;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.conteudolista {
+    color: #0C51A7;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.listahistoria {
+    margin-bottom: 48px;
+}
+ 
+.ponto {
+    color: #333333;
+    font-size: 15px;
+}
+
+.templobeomeo {
+    margin-top: 48px;
+    max-width: 100%;
+    border-radius: 24px;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.titlebeomeo {
+    font-weight: bold;
+    color: #1B1B1B;
+    font-size: 28px;
+    font-family: Open Sans;
+}
+
+.descricaotemplobeomeo {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: Italic;
+    color: #333333;
+    margin-top: 5px;
+}
+
+.titleparque {
+    font-weight: bold;
+    color: #1B1B1B;
+    font-size: 28px;
+    font-family: Open Sans;
+}
+
+.descricaoparque {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: Italic;
+    color: #333333;
+    margin-top: 5px;
+}
+
+.bompara {
+    font-family: Open Sans;
+    color: #333333;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.casais {
+    color: #591B98;
+    font-weight: bold;
+    font-family: Open Sans;
+}
+
+.familias {
+    color: #E5245E;
+    font-weight: bold;
+    font-family: Open Sans;
+}
+
+.orcamentos {
+    color: #E95E10;
+    font-weight: bold;
+    font-family: Open Sans;
+}
+
+.divisor {
+    border: none;
+    height: 4px;
+    background-color: #E1E1E6;
+    margin-top:  40px;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+.footerr {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: Italic;
+    color: #333333;
+    text-align: center;
+    
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    padding-bottom: 48px;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+footer img {
+    vertical-align: middle;
+}
+
